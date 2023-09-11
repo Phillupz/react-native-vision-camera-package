@@ -24,7 +24,7 @@
   "include": [
     "src",
     ".eslintrc.js",
-    "babel.config.js",
+    "babel.config.js", "expo-plugin",
   ],
   "exclude": [
     "node_modules",
