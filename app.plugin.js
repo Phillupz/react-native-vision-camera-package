@@ -1,1 +1,1 @@
-module.exports = require('./lib/commonjs/expo-plugin/withVisionCamera');
+module.exports = require('./src/expo-plugin/withVisionCamera');
